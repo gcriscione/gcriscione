@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Giovanni Criscione</h1>
-### <div align="center">I am currently attending the third year of the three-year course in computer science at the University of Pisa👨‍💻 . I gratuated the Secondary School Diploma in IT end for the past five years I have dedicated myself to learning new knowledge in the various fields of information technology. I mainly developed my skills in creating programs, but I also dedicated myself to creating websites for small businesses.🚀</div>  
+<div align="center">I am currently attending the third year of the three-year course in computer science at the University of Pisa👨‍💻 . I gratuated the Secondary School Diploma in IT end for the past five years I have dedicated myself to learning new knowledge in the various fields of information technology. I mainly developed my skills in creating programs, but I also dedicated myself to creating websites for small businesses.🚀</div>  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -21,7 +21,7 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -35,42 +35,6 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</table>  
 
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
