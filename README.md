@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Giovanni Criscione</h1>
 <h3 align="center">Computer science student at the University of Pisa</h3>
----
+
 <p align="left">
 I am currently attending the third year of the three-year course in computer science at the University of Pisa. I gratuated the Secondary School Diploma in IT end for the past five years I have dedicated myself to learning new knowledge in the various fields of information technology. I mainly developed my skills in creating programs, but I also dedicated myself to creating websites for small businesses.
 </p>
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
