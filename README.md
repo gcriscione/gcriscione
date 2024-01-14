@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Giovanni Criscione</h1>
-<h3 align="center">Computer science student at the University of Pisa</h3>
+<h3 align="center">Master's Student in Artificial Intelligence at the University of Pisa</h3>
 
 <p align="left">
-I am currently attending the third year of the three-year course in computer science at the University of Pisa. I gratuated the Secondary School Diploma in IT end for the past five years I have dedicated myself to learning new knowledge in the various fields of information technology. I mainly developed my skills in creating programs, but I also dedicated myself to creating websites for small businesses.
+I graduated in Computer Science from the University of Pisa, completing my degree in 2 years and 7 months. Currently, I am pursuing a Master's degree in Artificial Intelligence at the same university. Parallel to my academic endeavors, I am working as a Full Stack Developer. My journey in information technology started with my Secondary School Diploma in IT. Over the years, I have expanded my knowledge and expertise across various domains of IT, consistently building upon my foundational skills and embracing new challenges in the field.
 </p>
 
 
