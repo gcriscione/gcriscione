@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="./assets/unipi-logo.png"
+    src="./assets/unipi-logo.png" 
     alt="University of Pisa"
     height="40"
     align="center"
