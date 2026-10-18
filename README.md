@@ -5,19 +5,12 @@
 <h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.unipi.it/">
-    <table>
-      <tr>
-        <td bgcolor="#FFFFFF">
-          <img
-            src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_of_University_of_Pisa.svg"
-            alt="University of Pisa"
-            height="32"
-          />
-        </td>
-      </tr>
-    </table>
-  </a>
+  <img
+    src="./assets/unipi-logo.png"
+    alt="University of Pisa"
+    height="40"
+    align="center"
+  />
   &nbsp;
   <strong>Master's Degree in Artificial Intelligence</strong>
 </p>
