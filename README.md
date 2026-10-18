@@ -6,12 +6,17 @@
 
 <p align="center">
   <a href="https://www.unipi.it/">
-    <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_of_University_of_Pisa.svg"
-      alt="University of Pisa"
-      height="32"
-      align="center"
-    />
+    <table>
+      <tr>
+        <td bgcolor="#FFFFFF">
+          <img
+            src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_of_University_of_Pisa.svg"
+            alt="University of Pisa"
+            height="32"
+          />
+        </td>
+      </tr>
+    </table>
   </a>
   &nbsp;
   <strong>Master's Degree in Artificial Intelligence</strong>
@@ -20,7 +25,6 @@
 <p>
   <a href="https://linkedin.com/in/giovanni--criscione"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://gcriscione.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://instagram.com/giovannicriscione_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
